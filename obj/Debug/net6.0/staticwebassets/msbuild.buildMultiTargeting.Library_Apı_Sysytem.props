@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Library_Apı_Sysytem.props" />
+</Project>
